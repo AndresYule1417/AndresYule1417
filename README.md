@@ -1,0 +1,7 @@
+-👋 Hola, soy @AndresYule1417
+- 👀 Estoy interesado en la programacion
+- 🌱 Actualmente estoy desarrollo web
+- 💞️ Busco colaborar en den diferentes proyecto o desarrollo de software
+- 📫 Cómo contactarme?: agelipey1417@gmail.com
+- 😄 Pronombres: Pipe
+- ⚡ Dato curioso: Soy estudiante de ingenieria de sistemas 
